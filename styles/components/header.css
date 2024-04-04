@@ -1,0 +1,50 @@
+.cabecalho {
+    padding: 1.12em 5em;
+    background-color: var(--color-white);
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar__imagem {
+    margin: 0.53em 6.43em 0.53em 2em
+}
+
+.navbar__menu {
+    display: flex;
+    font-family: var(--font-principal);
+    font-weight: 500;
+    align-items: center;
+    text-align: center;
+}
+
+.navbar__menu-item {
+    justify-content: space-between;
+    margin: 0 1em;
+}
+
+.navbar__buttons {
+    display: flex;
+    font-family: var(--font-principal);
+    font-weight: 500;
+    align-items: center;
+}
+
+.navbar__button-enter {
+    background-color: transparent;
+    color: var(--color-blue);
+    padding: 0.62em 1.12em;
+    margin: 0 0 0 22.75em;
+    text-decoration: none;
+
+}
+
+.navbar__button-register {
+    background-color: var(--color-red);
+    color: var(--color-white);
+    padding: 0.62em 1.12em;
+    margin: 0 2em 0 0.75em;
+    border-radius: 8px;
+    text-decoration: none;
+}

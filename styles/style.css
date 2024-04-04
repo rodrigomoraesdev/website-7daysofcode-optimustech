@@ -1,0 +1,18 @@
+@import url("/styles/reset.css");
+@import url("/styles/components/header.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+:root {
+    --color-white: #FFFFFF;
+    --color-blue: #667085;
+    --color-red: #8E2424;
+
+    --font-principal: "Inter", sans-serif;
+}
+
+body {
+    color: var(--color-blue);
+    font-size: 16px;
+    font-weight: 400;
+}
