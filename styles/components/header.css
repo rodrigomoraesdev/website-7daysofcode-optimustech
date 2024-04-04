@@ -34,7 +34,7 @@
 .navbar__button-enter {
     background-color: transparent;
     color: var(--color-blue);
-    padding: 0.62em 1.12em;
+    padding: 0.70em 1.12em;
     margin: 0 0 0 22.75em;
     text-decoration: none;
 
@@ -43,7 +43,7 @@
 .navbar__button-register {
     background-color: var(--color-red);
     color: var(--color-white);
-    padding: 0.62em 1.12em;
+    padding: 1em 1.12em;
     margin: 0 2em 0 0.75em;
     border-radius: 8px;
     text-decoration: none;
