@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    flex-direction: column;
+    font-family: var(--font-principal);
+    background-color: var(--color-white);
+    text-align: center;
+}
+
+.cabecalho__mensagem {
+    font-size: 1em;
+    font-weight: 600;
+    color: var(--color-red);
+    margin: 6em 0 1.5em 0;
+}
+
+.cabecalho__titulo {
+    font-size: 3em;
+    font-weight: 600;
+    color: var(--color-darkblue);
+}
+
+.cabecalho__paragrafo {
+    font-size: 1.25em;
+    line-height: 1.5;
+    margin: 2.25em 22% 6.68em 22%;
+
+}
