@@ -1,0 +1,52 @@
+nav {
+  padding: 1.12em 5em;
+  background-color: var(--color-white);
+  display: flex;
+}
+
+.navbar__imagem {
+  width: 9.25em;
+  margin: 0.53em 6.43em 0.53em 2em
+}
+
+.navbar__menu {
+  display: flex;
+  font-family: var(--font-principal);
+  font-weight: 500;
+  align-items: center;
+  text-align: center;
+}
+
+.navbar__menu-item {
+  justify-content: space-between;
+  margin: 0 1em;
+}
+
+.navbar__buttons {
+  display: flex;
+  align-items: center;
+}
+
+.navbar__buttons a {
+  justify-content: left;
+  font-weight: 500;
+  font-size: 1em;
+  font-family: var(--font-principal);
+  color: var(--color-blue);
+  align-items: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  border-radius: 0.5em;
+  padding: 0.90em 1.12em;
+}
+
+a#enter {
+  margin: 0 0 0 22.75em;
+}
+
+a#signup {
+  background-color: var(--color-red);
+  color: var(--color-white);
+  margin: 0 2em 0 1em;
+}
