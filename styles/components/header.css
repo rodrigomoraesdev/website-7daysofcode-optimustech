@@ -1,7 +1,6 @@
 header {
     display: flex;
     flex-direction: column;
-    font-family: var(--font-principal);
     background-color: var(--color-white);
     text-align: center;
 }
@@ -21,7 +20,6 @@ header {
 
 .cabecalho__paragrafo {
     font-size: 1.25em;
-    line-height: 1.5;
+    line-height: 1.5rem;
     margin: 2.25em 22% 6.68em 22%;
-
 }

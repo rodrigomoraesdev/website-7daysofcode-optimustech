@@ -1,0 +1,29 @@
+.metricas {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 8%;
+    gap: 2rem;
+}
+
+.metricas__box {
+    width: 50%;
+}
+
+.metricas__indicador {
+    color: var(--color-red);
+    font-weight: 600;
+    font-size: 3.75rem;
+    margin-bottom: 0.75rem;
+
+}
+
+.metricas__titulo {
+    color: var(--color-darkblue);
+    font-weight: 500;
+    font-size: 1.12rem;
+    margin-bottom: 0.5rem
+}
+
+.metricas__texto {
+    line-height: 1.5rem;
+}

@@ -2,8 +2,6 @@ nav {
   display: flex;
   justify-content: space-around;
   background-color: var(--color-white);
-  font-family: var(--font-principal);
-  color: var(--color-blue);
   font-weight: 500;
   align-items: center;
   padding: 1.12rem 0;
