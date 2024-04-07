@@ -23,3 +23,11 @@ header {
     line-height: 1.8rem;
     margin: 2.25em 22% 6.68em 22%;
 }
+
+@media screen and (max-width: 1024px) {
+
+    .cabecalho__titulo {
+        font-size: 2rem;
+        margin: 0 22% 0 22%;
+    }
+}
