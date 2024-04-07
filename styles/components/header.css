@@ -18,7 +18,7 @@ header {
     color: var(--color-darkblue);
 }
 
-.cabecalho__paragrafo {
+.cabecalho__texto {
     font-size: 1.25em;
     line-height: 1.8rem;
     margin: 2.25em 22% 6.68em 22%;

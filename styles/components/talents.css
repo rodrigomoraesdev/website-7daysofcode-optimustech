@@ -1,0 +1,35 @@
+.talents {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.talents__mensagem {
+    font-size: 0.88rem;
+    font-weight: 500;
+    background-color: var(--color-red-5);
+    color: var(--color-red);
+    margin: 12rem auto 1rem auto;
+}
+
+.talents__titulo {
+    font-size: 2.25rem;
+    font-weight: 600;
+    color: var(--color-darkblue);
+}
+
+.talents__texto {
+    font-size: 1.25rem;
+
+    margin: 1.25rem 0 4rem 0;
+}
+
+.talents__imagem {
+    margin: 0 8%;
+}
+
+@media screen and (max-width: 1024px) {
+    .talents__mensagem {
+        margin: 6rem auto 1rem auto;
+    }
+}

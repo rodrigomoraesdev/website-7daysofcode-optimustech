@@ -38,3 +38,33 @@ a#signup {
   color: var(--color-white);
   margin: 0 3rem 0 0.75rem;
 }
+
+@media screen and (max-width: 1024px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: var(--color-white);
+    font-weight: 500;
+    align-items: center;
+    padding: 1.12rem 0;
+  }
+
+  .navbar__imagem {
+    margin: 1rem 0 0 0;
+  }
+
+  .navbar__menu {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 1rem 0;
+    gap: 1rem;
+  }
+
+  a#signup {
+    background-color: var(--color-red);
+    color: var(--color-white);
+    margin: 0;
+  }
+}
