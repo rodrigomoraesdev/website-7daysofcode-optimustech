@@ -1,0 +1,68 @@
+.opinions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.opinions__mensagem {
+    background-color: var(--color-red-5);
+    color: var(--color-red);
+    font-size: 0.88rem;
+    font-weight: 600;
+    margin: 8.5rem auto 1rem auto;
+    line-height: 1.25rem;
+}
+
+.opinions__titulo {
+    color: var(--color-darkblue);
+    font-size: 2.19rem;
+    font-weight: 500;
+    margin: auto 11rem auto 11rem;
+    padding: 0.5rem;
+}
+
+.opinions__card {
+    display: flex;
+    flex-direction: column;
+}
+
+.opinions__imagem {
+    width: 3.5rem;
+    margin: 2rem auto 1rem auto;
+}
+
+.opinions__associate {
+    color: var(--color-darkblue);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5rem;
+}
+
+.opinions__office {
+    font-size: 0.88rem;
+    margin: 0.25rem auto 16rem auto;
+    line-height: 1.25rem;
+}
+
+
+@media screen and (max-width: 1024px) {
+
+    .opinions__mensagem {
+        margin: 4.25rem auto 1rem auto;
+    }
+
+    .opinions__titulo {
+        font-size: 1.75rem;
+        margin: auto 2% auto 2%;
+    }
+
+    .opinions__card {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .opinions__imagem {
+        width: 5rem;
+    }
+}

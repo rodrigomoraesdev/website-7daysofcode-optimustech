@@ -26,8 +26,17 @@ header {
 
 @media screen and (max-width: 1024px) {
 
+    .cabecalho__mensagem {
+        margin: 3rem 0 1.5rem 0;
+    }
+
     .cabecalho__titulo {
         font-size: 2rem;
-        margin: 0 22% 0 22%;
+        margin: 0 2% 0 2%;
     }
+
+    .cabecalho__texto {
+        margin: 2.25rem 2% 3.30rem 2%;
+    }
+
 }

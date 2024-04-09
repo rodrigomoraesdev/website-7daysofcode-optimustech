@@ -4,6 +4,7 @@
 @import url("/styles/components/metrics.css");
 @import url("/styles/components/talents.css");
 @import url("/styles/components/vacancies.css");
+@import url("/styles/components/opinions.css");
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
 
 :root {
