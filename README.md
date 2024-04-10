@@ -8,7 +8,7 @@ Esse Website foi criado conforme solicitado por uma empresa de TI, que precisava
 
 ## 💡 Sobre
 
-A ferramenta foi criada para ser responsiva em todos os dispositivos, usando HTML e CSS conforme o design no Figma, respeitando detalhes como cores, tamanhos, margens, preenchimentos e espaçamentos.
+O Website foi criado para ser responsivo em todos os dispositivos, usando HTML e CSS conforme o design no Figma, respeitando detalhes como cores, tamanhos, margens, preenchimentos e espaçamentos.
 
 A página inclui:
 
