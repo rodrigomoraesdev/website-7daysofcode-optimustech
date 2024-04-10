@@ -2,6 +2,8 @@
 
 ## 👨🏻‍💻 [Abrir Projeto](https://website-7daysofcode-optimustech.vercel.app)
 
+https://github.com/rodrigomoraesdev/website-7daysofcode-optimustech/assets/110948655/c9a21f09-9a5b-489b-900a-d98b4abf3d80
+
 ## 📝 Introdução
 
 Esse Website foi criado conforme solicitado por uma empresa de TI, que precisava desenvolver a página da empresa: OptimusTech seguindo o projeto Figma em questão.
